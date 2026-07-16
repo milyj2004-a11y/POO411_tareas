@@ -1,0 +1,4 @@
+Programacion orientanda a objeto|66|4
+Derecho Penal|8098|4
+Odontologia 1|000|5
+Introduccion a tecnologia de redes|999|4
